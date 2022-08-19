@@ -1,4 +1,4 @@
-I currently work at [Société Générale](https://www.societegenerale.com/en) with 3 main roles: Tech Architect & Advisor, Open Source Advovate and Product Owner of a [Cloud Innovation Platform](https://github.com/societe-generale/cloud-innovation-platform) -- an open sourced platform our innov'actors use to qualify new technologies during pre-projects phases.
+I currently work at [Société Générale](https://www.societegenerale.com/en) with ***3 main roles***: *1/ Tech Architect & Advisor*, *2/ Open Source Advovate* and *3/ Product Owner of a [Cloud Innovation Platform](https://github.com/societe-generale/cloud-innovation-platform)* -- an open sourced platform our innov'actors use to qualify new technologies during pre-projects phases.
 
 Find out more on my [LinkedIn profile](https://www.linkedin.com/in/plachance/)
 
